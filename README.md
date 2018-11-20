@@ -8,8 +8,7 @@ The objective of this assignment was to:
 2. Write a function getNews(source) that accepts the name of a source, queries the NewsAPI, 
 and return back a list of URLs with the news stories that appear in that source. 
 
-3.Use the IBM Watson Natural Language Understanding API, and write a function extractEntities(url) that takes as input a URL,
-and returns a list of dictionaries, with every dictionary containing the entity name, the URL where the entity appeared, 
+3. Use the IBM Watson Natural Language Understanding API, and write a function extractEntities(url) that takes as input a URL,and returns a list of dictionaries, with every dictionary containing the entity name, the URL where the entity appeared, 
 the relevance of the entity to the article, and the sentiment about the entity. 
 
 4. Using the getNews(source) function, get the URLs of the news stories that appear in Wall Street Journal.
@@ -20,6 +19,7 @@ and The New York Times stories. Load the extracted entities into a Pandas Datafr
 For Assignment 2:
 
 The objective of this assignment was to:
+
 1.Identify a web API that returns data. 
 Preferably, you want the data to change over time. (To get even more satisfaction, 
 select a data source for which historical data are not readily and easily accessible, so that you construct something unique.)
@@ -33,6 +33,7 @@ Make sure that your script can run multiple times without causing errors.
 For Assignment 4:
 
 The objective of this assignment was to:
+
 We are getting ready for Halloween, and we want to cook some good food. No, good is not good enough.
 We want to first the BEST recipe for Heloween. But to find the best recipe, we need data.
 After a 1-min Google search, we find the page https://www.allrecipes.com/recipes/189/holidays-and-events/halloween/ 
